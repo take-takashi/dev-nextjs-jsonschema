@@ -1,0 +1,8 @@
+{
+  "image": "node:18.9",
+  "name": "node18.9",
+  "features": {},
+  "extensions": {},
+  "settings": {},
+  "postCreateCommand": ""
+}
